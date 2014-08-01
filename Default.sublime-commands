@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "SpellCheck: Toggle on/off",
+        "command": "toggle_spell_check"
+    }
+]
